@@ -6,6 +6,6 @@ I am a full stack developer with a background in sustainability and education. I
 - :bulb: I’m currently learning: AWS. 
 - :link: I’m looking to collaborate on: anything in the outdoor recreation industry, involving local nonprofits, or animal rescue.
 - :postbox: How to reach me: [meghanmurphy.212@gmail.com](meghanmurphy.212@gmail.com) or [myLinkedIn](https://www.linkedin.com/in/meghan-murphy-111445179/)
-- :bug: My portfolio: [mmurphy.dev](https://github.com/MMURPHY222)
+- :bug: My portfolio: [mmurphy.dev](https://mmurphy222.github.io/portfolio-v1/)
 - :biohazard: Fun fact: I played college softball and love doing anything adventurous and outside!
 
